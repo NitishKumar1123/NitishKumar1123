@@ -17,15 +17,17 @@
 - C
 - C++
 - Python
-- Kotlin
 - Java
 - JS
+- Node.js
+- Kotlin
 #### Tools & Technologies
+- Linux
+- Git
 - Overleaf (LaTeX)
 - Canva
 - HTML
 - CSS
-- Git
 - ChatGPT
 - GitHub Copilot
 - Black Box AI
